@@ -6,7 +6,7 @@ A professional music player application built as part of the CodeClause Internsh
 
 Experience the music player live:
 
-[Live Demo](#) <!-- Replace `#` with your deployed app URL, e.g. https://yourusername.github.io/CodeClauseInternship-Music-Player -->
+[[Live Demo](#)](https://parthnagar24.github.io/CodeClauseInternship-Music-Player/) <!-- Replace `#` with your deployed app URL, e.g. https://yourusername.github.io/CodeClauseInternship-Music-Player -->
 
 ## 📋 Features
 
